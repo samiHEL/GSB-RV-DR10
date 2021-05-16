@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">GSB RV Visiteurs</string>
+    <string name="bValider" translatable="false">VALIDER</string>
+    <string name="bAnnuler" translatable="false">ANNULER</string>
+    <string name="bConsulter" translatable="false">CONSULTER UN RAPPORT DE VISITE</string>
+    <string name="bSaisir" translatable="false">SAISIR UN RAPPORT DE VISITE</string>
+
+</resources>
